@@ -1,0 +1,32 @@
+/* src/pages/Bestsellers.css */
+.best-sellers {
+  position: relative;
+  /* flex-direction: column; */
+  align-items: center;
+  color: white;
+  padding: 20px;
+}
+
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  outline: none;
+  border: none;
+}
+
+.card-section-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.card-section-heading h2 {
+  margin: 0;
+}
+
+.card-section-heading a {
+  text-decoration: none;
+  color: #007bff;
+}

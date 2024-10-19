@@ -1,0 +1,27 @@
+.card-section {
+    margin: 2rem 0;
+    text-align: center;
+    
+  }
+  
+  .card-section h2 {
+    font-size: 2.5rem; 
+    margin-bottom: 1rem;
+    text-align: center;
+    
+  }
+  
+  .card-section a {
+    color: #FFC107;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 550px;
+  }
+  
+  .card-section a:hover {
+    text-decoration: underline;
+    font-size: 2.63rem;
+    transition: font-size .35s linear;
+  }
+  
